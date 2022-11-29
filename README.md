@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @have2go
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning html, css, java-script
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Привет! Меня зовут Алексей.
+
+- 👋 Я начинающий веб-разработчик
+- 👀 Хочу научиться делать реально сложную и крутую вёрстку
+- :technologist: Работать в большой команде
+- :student: Освоить новые технологии
+- :hippopotamus: Создавать большие, комплексные проекты
 
 <!---
 have2go/have2go is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
