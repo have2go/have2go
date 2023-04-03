@@ -1,4 +1,4 @@
-# Привет! Меня зовут Алексей.
+<!-- # Привет! Меня зовут Алексей.
 
 - 👋 Я начинающий веб-разработчик
 - 👀 Хочу научиться делать реально сложную и крутую вёрстку
@@ -14,3 +14,4 @@
 have2go/have2go is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+ -->
